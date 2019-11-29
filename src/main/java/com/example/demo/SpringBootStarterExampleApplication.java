@@ -15,7 +15,7 @@ public class SpringBootStarterExampleApplication {
 	
 	@GetMapping("/scream")
 	public String sayHello() {
-		return "Hello AKK";
+		return "Hello KiranKumar Atmakuri";
 	}
 
 }
